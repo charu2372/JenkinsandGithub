@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59183" started-at="2019-06-11T15:58:03Z" finished-at="2019-06-11T15:59:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59183" started-at="2019-06-11T15:58:03Z" finished-at="2019-06-11T15:59:02Z">
+      <class name="testingworld.TC_001Jenkins">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:testingworld.TC_001Jenkins@71c7db30]" name="testcase" duration-ms="6658" started-at="2019-06-11T15:58:55Z" finished-at="2019-06-11T15:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- testingworld.TC_001Jenkins -->
+      <class name="testingworld.TC_002">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:testingworld.TC_002@5a01ccaa]" name="testcase" duration-ms="45002" started-at="2019-06-11T15:58:10Z" finished-at="2019-06-11T15:58:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- testingworld.TC_002 -->
+      <class name="testingworld.TC_003">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:testingworld.TC_003@47f37ef1]" name="testcase" duration-ms="7487" started-at="2019-06-11T15:58:03Z" finished-at="2019-06-11T15:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- testingworld.TC_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
